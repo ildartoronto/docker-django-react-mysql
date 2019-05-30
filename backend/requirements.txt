@@ -1,6 +1,6 @@
 django-cors-headers<3.0.0
 Django>=2.0,<3.0
-djangorestframework==3.7.7
+djangorestframework~>3.9.1
 psycopg2>=2.7,<3.0
 pygments>1.0
 pytz==2017.3
