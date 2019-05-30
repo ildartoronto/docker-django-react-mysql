@@ -1,1 +1,0 @@
-# docker-django-react-mysql 
